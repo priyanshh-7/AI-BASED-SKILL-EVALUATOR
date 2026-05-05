@@ -69,6 +69,7 @@ export default function ResumeBuilder({ initialContent }) {
       const newContent = getCombinedContent();
       setPreviewContent(newContent ? newContent : initialContent);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [formValues, activeTab]);
 
   // Handle save result
@@ -132,7 +133,7 @@ export default function ResumeBuilder({ initialContent }) {
     }
   };
 
-  const onSubmit = async (data) => {
+  const onSubmit = async () => {
     try {
       const formattedContent = previewContent
         .replace(/\n/g, "\n") // Normalize newlines

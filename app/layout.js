@@ -9,7 +9,7 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AI Career Coach",
+  title: "Ai Based Skill Evaluator",
   description: "",
 };
 
@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
 
             <footer className="bg-muted/50 py-12">
               <div className="container mx-auto px-4 text-center text-gray-200">
-                <p>&copy; 2025 JobReady.ai. All Rights Reserved</p>
+                <p>&copy; 2025 Ai Based Skill Evaluator. All Rights Reserved</p>
               </div>
             </footer>
           </ThemeProvider>
