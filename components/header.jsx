@@ -27,14 +27,14 @@ export default async function Header() {
         <Link href="/">
           {/* <Image
             src={"/logo.png"}
-            alt="Ai Based Skill Evaluator Logo"
+            alt="Job Ready Logo"
             width={200}
             height={60}
             className="h-12 py-1 w-auto object-contain"
           /> */}
           <div className="h-12 flex items-center py-1">
             <h1 className="font-poppins text-xl font-bold text-white ">
-              Ai Based Skill Evaluator
+              Job Ready
             </h1>
           </div>
         </Link>

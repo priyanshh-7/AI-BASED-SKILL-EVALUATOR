@@ -1,32 +1,32 @@
 export const faqs = [
   {
-    question: "What makes Ai Based Skill Evaluator unique as a career development tool?",
+    question: "What makes Job Ready unique as a career development tool?",
     answer:
-      "Ai Based Skill Evaluator combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
+      "Job Ready combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
   },
   {
-    question: "How does Ai Based Skill Evaluator create tailored content?",
+    question: "How does Job Ready create tailored content?",
     answer:
-      "Ai Based Skill Evaluator learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
+      "Job Ready learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
   },
   {
-    question: "How accurate and up-to-date are Ai Based Skill Evaluator's industry insights?",
+    question: "How accurate and up-to-date are Job Ready's industry insights?",
     answer:
-      "We update our industry insights weekly using advanced AI analysis of current market trends. This includes salary data, in-demand skills, and industry growth patterns. Our system constantly evolves to ensure you have the most relevant information for your career decisions.",
+      "Our AI models are trained on vast amounts of professional data and industry-specific content. We regularly update our knowledge base to ensure that the advice, resume templates, and interview questions reflect current market trends and employer expectations in your specific field.",
   },
   {
-    question: "Is my data secure with Ai Based Skill Evaluator?",
+    question: "Is my data secure with Job Ready?",
     answer:
-      "Absolutely. We prioritize the security of your professional information. All data is encrypted and securely stored using industry-standard practices. We use Clerk for authentication and never share your personal information with third parties.",
+      "We take data security seriously. Your professional information, resumes, and interview practice data are stored securely and used only to provide you with personalized career tools. We do not sell your personal data to third parties.",
   },
   {
-    question: "How can I track my interview preparation progress?",
+    question: "How does the interview preparation work?",
     answer:
-      "Ai Based Skill Evaluator tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
+      "Job Ready tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
   },
   {
-    question: "Can I edit the AI-generated content?",
+    question: "Can I customize the generated content?",
     answer:
-      "Yes! While Ai Based Skill Evaluator generates high-quality initial content, you have full control to edit and customize all generated resumes, cover letters, and other content. Our markdown editor makes it easy to refine the content to perfectly match your needs.",
+      "Yes! While Job Ready generates high-quality initial content, you have full control to edit and customize all generated resumes, cover letters, and other content. Our markdown editor makes it easy to refine the content to perfectly match your needs.",
   },
 ];

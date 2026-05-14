@@ -24,7 +24,7 @@ This project is prepared for deployment on [Render](https://render.com/).
 
 ## Project Name
 
-The project name has been set to **Ai Based Skill Evaluator** throughout the application.
+The project name has been set to **Job Ready** throughout the application.
 
 - **Title**: `app/layout.js`
 - **Header**: `components/header.jsx`

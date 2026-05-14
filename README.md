@@ -1,4 +1,4 @@
-# Ai Based Skill Evaluator
+# Job Ready
 
 An AI-powered career development platform designed to help you build professional resumes, generate tailored cover letters, and prepare for interviews with industry-specific insights.
 
